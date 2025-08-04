@@ -44,7 +44,7 @@ export default function HeroCarousel() {
       style={{ backgroundImage: `url(${Bv})` }} >
             <div className="w-4/5 mx-auto h-full flex items-center justify-Start">
               <div className="flex flex-col text-left space-y-4">
-                <h5 className="text-4xl font-bold text-white">Get help exactly when you need it</h5>
+                <h5 className="text-4xl font-bold text-white">Get . help exactly when you need it</h5>
                 <p className="text-lg text-gray-600 max-w-md text-white">
                   From shipping to returns, find answers to all of your questions.
                 </p>
