@@ -70,7 +70,7 @@ export default function HeroCarousel() {
               </div>
 
               {/* Right Column */}
-              <div className="w-1/2 flex flex-row space-y-8 gap-10">
+              <div className="w-full md:w-1/2 flex flex-row space-y-8 gap-10">
                 <div className="">
                   <img
                     src={ Bv3 }
@@ -116,7 +116,7 @@ export default function HeroCarousel() {
               </div>
 
               {/* Right Column */}
-              <div className="w-1/2 flex flex-row space-y-8 text-white gap-10">
+              <div className="w-full md:w-1/2 grid grid-cols-2 md:flex md:flex-row gap-4 text-white">
                 <div className="">
                   <img
                     src={Bv1}
